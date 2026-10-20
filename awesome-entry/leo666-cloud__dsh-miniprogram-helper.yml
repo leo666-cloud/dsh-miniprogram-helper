@@ -1,5 +1,5 @@
-url: https://github.com/OWNER/dsh-miniprogram-helper
-name: OWNER/dsh-miniprogram-helper
+url: https://github.com/leo666-cloud/dsh-miniprogram-helper
+name: leo666-cloud/dsh-miniprogram-helper
 category: dev
 description:
   en: 'WeChat Mini Program engineering tools: scan a project for pages missing from app.json, scaffold pages with automatic registration, fix orphan pages, manage subpackages, tabBar and components, and drive the WeChat DevTools CLI for preview QR codes and uploads.'

@@ -62,10 +62,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OWNER/dsh-miniprogram-helper.git"
+    "url": "git+https://github.com/leo666-cloud/dsh-miniprogram-helper.git"
   },
-  "homepage": "https://github.com/OWNER/dsh-miniprogram-helper#readme",
+  "homepage": "https://github.com/leo666-cloud/dsh-miniprogram-helper#readme",
   "bugs": {
-    "url": "https://github.com/OWNER/dsh-miniprogram-helper/issues"
+    "url": "https://github.com/leo666-cloud/dsh-miniprogram-helper/issues"
   }
 }
