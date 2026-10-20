@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 1,
+  "id": "miniprogram-helper",
+  "name": "DSH MiniProgram Helper",
+  "version": "0.2.0",
+  "kind": "profile-bundle",
+  "package": "dsh-miniprogram-helper",
+  "bundlePatch": "./cordis.patch.yml",
+  "entry": "./lib/index.js",
+  "compatibility": {
+    "node": "^22.19.0 || >=24.0.0"
+  },
+  "effects": [],
+  "network": false,
+  "filesystem": true,
+  "modelVisible": true
+}

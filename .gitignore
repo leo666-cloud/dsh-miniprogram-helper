@@ -1,0 +1,17 @@
+# 依赖
+node_modules/
+
+# 运行时产物
+*.tgz
+*.log
+.DS_Store
+project.private.config.json
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
+
+# 注意：lib/ 是刻意提交的。
+# 从 GitHub 直接安装时（dsh plugin add owner/repo），pnpm 用仓库里的构建产物，
+# 而 git 依赖的 build 脚本默认被 pnpm 拦截，不提交 lib 会装出空壳插件。

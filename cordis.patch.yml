@@ -1,0 +1,5 @@
+# 插件的「自我介绍卡」：声明以什么 id 插进 DSH 配置树。
+# name 是包名（安装后从 profile 的 node_modules 解析），不是文件路径。
+- insert:
+    - id: miniprogram-helper
+      name: dsh-miniprogram-helper
